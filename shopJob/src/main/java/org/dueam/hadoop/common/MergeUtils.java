@@ -2,8 +2,6 @@ package org.dueam.hadoop.common;
 
 import org.apache.commons.lang.math.NumberUtils;
 import org.apache.commons.lang.math.RandomUtils;
-
-import javax.xml.crypto.dsig.keyinfo.KeyValue;
 import java.security.KeyPair;
 import java.util.ArrayList;
 import java.util.Collection;

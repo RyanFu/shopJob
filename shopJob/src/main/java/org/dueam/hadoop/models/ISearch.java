@@ -4,7 +4,6 @@ import org.apache.commons.lang.StringUtils;
 import org.apache.commons.lang.math.NumberUtils;
 import org.dueam.hadoop.common.tables.ISearchLog;
 
-import javax.jws.Oneway;
 
 /**
  * User: windonly
