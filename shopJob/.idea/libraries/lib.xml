@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-core-sourece.zip!/core" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-core-sourece.zip!/core" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/core" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/fairscheduler/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/serde/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/failmon/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/serde/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/mapred" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/tools" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/ant" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/examples" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/fairscheduler/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/ant/src" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/ql/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/ql/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/eclipse-plugin/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/metastore/src/model" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/metastore/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/chukwa/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/capacity-scheduler/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/chukwa/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/capacity-scheduler/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/index/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/index/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/streaming/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/thriftfs/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/data_join/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/cli/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/thriftfs/gen-java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/data_join/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/common/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/data_join/src/examples" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/test" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/thriftfs/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/serde/src/gen-java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/metastore/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/streaming/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/hdfs" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop.zip!/src/contrib/hive/metastore/src/gen-javabean" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>

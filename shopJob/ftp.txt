@@ -1,0 +1,6 @@
+open 110.75.5.128
+pubftp
+look
+binary
+put target/dueam-jobs.jar
+bye
